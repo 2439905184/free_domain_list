@@ -14,6 +14,8 @@ https://www.resellercluster.com/
 
 http://cpanel.freehost4u.org/
 
+[zoneedit](https://www.zoneedit.com/)
+
 DNSPod
 
 
