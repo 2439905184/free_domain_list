@@ -14,5 +14,8 @@ https://www.resellercluster.com/
 
 http://cpanel.freehost4u.org/
 
+DNSPod
+
+
 ### 工具
 https://www.fakenamegenerator.com/gen-male-us-us.php 随机名称生成器
