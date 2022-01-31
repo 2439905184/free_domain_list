@@ -3,7 +3,9 @@
 
 http://www.freenom.com/
 
-https://www.gw.to/
+https://www.gw.to/ (收不到邮件）
+
+https://nic.eu.org/
 
 resellercluster 创建自己的免费空间分销网站
 
