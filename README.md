@@ -6,6 +6,7 @@ http://www.freenom.com/
 https://www.gw.to/ (收不到邮件）
 
 https://nic.eu.org/ (注册名称需要首字母大写并加上空格 如:Scl hh128）
+[教程地址](https://zhuanlan.zhihu.com/p/99542804)
 
 resellercluster 创建自己的免费空间分销网站
 
