@@ -18,8 +18,9 @@ http://cpanel.freehost4u.org/
 
 https://freedns.afraid.org/menu/
 
-DNSPod
-
+[dyuns域名网](https://www.dyuns.com/)
 
 ### 工具
 https://www.fakenamegenerator.com/gen-male-us-us.php 随机名称生成器
+
+DNSPod 免费域名解析
