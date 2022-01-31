@@ -20,6 +20,8 @@ https://freedns.afraid.org/menu/
 
 [dyuns域名网](https://www.dyuns.com/)
 
+[坚果云创](https://console.sodayang.com/dns.html)
+
 ### 工具
 https://www.fakenamegenerator.com/gen-male-us-us.php 随机名称生成器
 
