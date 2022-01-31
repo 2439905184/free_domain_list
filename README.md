@@ -16,6 +16,8 @@ http://cpanel.freehost4u.org/
 
 [zoneedit](https://www.zoneedit.com/)
 
+https://freedns.afraid.org/menu/
+
 DNSPod
 
 
