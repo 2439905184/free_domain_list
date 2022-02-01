@@ -22,6 +22,8 @@ https://freedns.afraid.org/menu/
 
 [坚果云创](https://console.sodayang.com/dns.html)
 
+[乐数云](leshuyun.com)
+
 ### 工具
 https://www.fakenamegenerator.com/gen-male-us-us.php 随机名称生成器
 
