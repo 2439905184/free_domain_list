@@ -1,5 +1,19 @@
-# free_domain_list
-免费域名服务商列表
+# :lemon: free_domain_list :lemon:
+# 目录
+
+- [新开放互联网上的区块链域](#新开放互联网上的区块链域)
+- [免费域名服务商列表](#免费域名服务商列表)
+  - [工具](#工具)
+#
+*<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+## 新开放互联网上的区块链域
+[Forever 域是真正的去中心化域，永远没有续订费用](https://foreverdomains.io/)  \
+[ENS 是最广泛集成的区块链命名标准](https://ens.domains/)  \
+[.badass domains](https://badass.domains/)  \
+[新的顶级域名！](https://www.opennic.org/)
+
+*<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+## 免费域名服务商列表
 
 http://www.freenom.com/
 
@@ -24,7 +38,9 @@ https://freedns.afraid.org/menu/
 
 [乐数云](https://leshuyun.com/)
 
-### 工具
+*<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+## 工具
+
 https://www.fakenamegenerator.com/gen-male-us-us.php 随机名称生成器
 
 DNSPod 免费域名解析
