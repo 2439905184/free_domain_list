@@ -38,6 +38,8 @@ https://freedns.afraid.org/menu/
 
 [乐数云](https://leshuyun.com/)
 
+[每步](http://meibu.com/)
+
 *<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ## 工具
 
