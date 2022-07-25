@@ -10,7 +10,7 @@
 [Forever 域是真正的去中心化域，永远没有续订费用](https://foreverdomains.io/)  \
 [ENS 是最广泛集成的区块链命名标准](https://ens.domains/)  \
 [.badass domains](https://badass.domains/)  \
-[新的顶级域名！](https://www.opennic.org/)
+[新的顶级域名！](https://www.opennic.org/) \
 [PeerTube分布式视频平台](https://joinpeertube.org/)
 *<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ## 免费域名服务商列表
