@@ -11,7 +11,8 @@
 [ENS 是最广泛集成的区块链命名标准](https://ens.domains/)  \
 [.badass domains](https://badass.domains/)  \
 [新的顶级域名！](https://www.opennic.org/) \
-[PeerTube分布式视频平台](https://joinpeertube.org/)
+[PeerTube分布式视频平台](https://joinpeertube.org/) \
+[点心云](https://dianxinai.com/) 利用闲置带宽赚钱
 *<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ## 免费域名服务商列表
 
