@@ -88,8 +88,9 @@ https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs \
 
 https://www.fakenamegenerator.com/gen-male-us-us.php 随机名称生成器 \
 https://www.robtex.com/ \
-[Dat Ecosystem](https://dat-ecosystem.org/index.html) p2p生态 \
-[helium](https://www.helium.com/) 最先进的区域链技术，不需要没有gpu \
+[Dat Ecosystem](https://dat-ecosystem.org/index.html) p2p生态系统 \
+[helium](https://www.helium.com/) 最先进的区域链技术，不需要gpu \
+[Lokinet](https://github.com/oxen-io/lokinet) Lokinet 是一个匿名的、分散的和基于 IP 的互联网覆盖网络。Tor的替代品 \
 [PeerTube分布式视频平台](https://joinpeertube.org/) \
 [区域链视频平台](https://d.tube/) \
 [免费资源网](https://www.freeaday.com/wangpan/) \
