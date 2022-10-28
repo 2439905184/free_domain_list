@@ -86,6 +86,11 @@ https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs \
 *<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ## 其他
 
+## VPN
+[fastTune](https://www.faststunnel.in/) \
+*<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+## 其他
+
 https://www.fakenamegenerator.com/gen-male-us-us.php 随机名称生成器 \
 https://www.robtex.com/ \
 [Dat Ecosystem](https://dat-ecosystem.org/index.html) p2p生态系统 \
