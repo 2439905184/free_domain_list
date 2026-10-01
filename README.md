@@ -25,7 +25,7 @@
 
 *<div align="right"><a href="#目录">回到目录 :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ## 免费域名服务商列表
-[freenom](https://www.freenom.com/) \
+~~[freenom](https://www.freenom.com/)~~ (已无法注册) \
 https://www.gw.to/ (收不到邮件） \
 https://nic.eu.org/ (注册名称需要首字母大写并加上空格 如:Scl hh128） \
 [教程地址](https://zhuanlan.zhihu.com/p/99542804) \
